@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/iframeTest/static/css/main.7466af86.css",
+    "main.js": "/iframeTest/static/js/main.3592026f.js",
+    "index.html": "/iframeTest/index.html",
+    "main.7466af86.css.map": "/iframeTest/static/css/main.7466af86.css.map",
+    "main.3592026f.js.map": "/iframeTest/static/js/main.3592026f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7466af86.css",
+    "static/js/main.3592026f.js"
+  ]
+}
